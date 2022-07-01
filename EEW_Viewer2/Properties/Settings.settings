@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EEW_Viewer2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="UserLatitude" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">35.45</Value>
+    </Setting>
+    <Setting Name="UserLongitude" Type="System.Single" Scope="User">
+      <Value Profile="(Default)">136.75</Value>
+    </Setting>
+    <Setting Name="UserKyoshinPixelX" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">165</Value>
+    </Setting>
+    <Setting Name="UserKyoshinPixelY" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">265</Value>
+    </Setting>
+    <Setting Name="WarnArea" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="QuakeLat" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">35.5</Value>
+    </Setting>
+    <Setting Name="QuakeLong" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">136.8</Value>
+    </Setting>
+    <Setting Name="WarnArea2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NIEDDelay" Type="System.TimeSpan" Scope="User">
+      <Value Profile="(Default)">00:00:02</Value>
+    </Setting>
+    <Setting Name="IsTweet" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
